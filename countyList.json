@@ -1,0 +1,38 @@
+{
+    "counties": [
+        {
+            "id": "",
+            "account": {
+                "user": "",
+                "password": ""
+            },
+            "county": {
+                "name": "",
+                "state": "",
+                "mayor": "",
+                "population": 0,
+                "flag": "",
+                "anniversary": "",
+                "distanceToCisab": 0,
+                "note": "",
+                "address": "",
+                "zipCode": "",
+                "phone": "",
+                "contact": "",
+                "site": "",
+                "email": "",
+                "socialMedias": ""
+            },
+            "accountable": {
+                "name": "",
+                "job": "",
+                "address": "",
+                "zipCode": "",
+                "phone": "",
+                "email": "",
+                "socialMedias": "",
+                "note": ""
+            }
+        }
+    ]
+}
